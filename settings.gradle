@@ -1,0 +1,3 @@
+include ':image_preview'
+include ':app'
+rootProject.name = "Androidlibrary2"
